@@ -1,0 +1,66 @@
+Partlist exported from C:/Users/dfr17/OneDrive/Documents/eagle/ax80/ax80revB2.sch at 17/08/2023 12:17:23
+
+Part      Value                 Device          Package        Description                                                       
+C1        1µ                    CPOL-EUE2.5-5   E2,5-5         POLARIZED CAPACITOR, European symbol                              
+C2        100n                  C-EU025-025X050 C025-025X050   CAPACITOR, European symbol                                        
+C3        22p                   C-EU025-025X050 C025-025X050   CAPACITOR, European symbol                                        
+C4        22p                   C-EU025-025X050 C025-025X050   CAPACITOR, European symbol                                        
+C5        100n                  C-EU025-025X050 C025-025X050   CAPACITOR, European symbol                                        
+C6        100n                  C-EU025-025X050 C025-025X050   CAPACITOR, European symbol                                        
+C7        100n                  C-EU025-025X050 C025-025X050   CAPACITOR, European symbol                                        
+C8        220µ                  CPOL-EUE3.5-8   E3,5-8         POLARIZED CAPACITOR, European symbol                              
+C9        100µ                  CPOL-EUE2.5-6   E2,5-6         POLARIZED CAPACITOR, European symbol                              
+C10       100n                  C-EU025-025X050 C025-025X050   CAPACITOR, European symbol                                        
+C11       100µ                  CPOL-EUE2.5-6   E2,5-6         POLARIZED CAPACITOR, European symbol                              
+C12       100n                  C-EU025-025X050 C025-025X050   CAPACITOR, European symbol                                        
+CN1                             DCBARRELPTH     DCJACK_2MM_PTH 2.0mm DC Barrel Jack                                              
+D1        1N4004                DIODE1N4148     DIODE-1N4148   Diode                                                             
+EXPANSION PAR                   ML26            ML26           HARTING                                                           
+IC1       ATMEGA644P/1284P-20PU ATMEGA644-20PU  DIL40          8-bit Microcontroller with 64K Bytes In-System Programmable Flash 
+IC2       74AHC125N             74HC125N        DIL14          Quad bus BUFFER, 3-state                                          
+IC3       L4940V5               V_REG_78XXSIDE  78XXL          Voltage Regulator                                                 
+IC4       LM3940IT-3.3          V_REG_78XXSIDE  78XXL          Voltage Regulator                                                 
+JP1                             JP1E            JP1            JUMPER                                                            
+JP2       WP                    JP1E            JP1            JUMPER                                                            
+JP3       SD DET                JP1E            JP1            JUMPER                                                            
+JP4                             JP1E            JP1            JUMPER                                                            
+JP101     S/W                   M04PTH          1X04           Header 4                                                          
+JP601                           JP1E            JP1            JUMPER                                                            
+KEYBOARD  PS2                   MINI_DIN_6      M_DIN6                                                                           
+LED1                            LED3MM          LED3MM         LED                                                               
+Q1        20MHz                 CRYSTALHC49US   HC49US         Crystals                                                          
+R1        1k                    R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R2        1k8                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R3        3k3                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R4        1k                    R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R5        470                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R6        470                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R7        470                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R8        10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R9        10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R10       10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R11       10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R12       180                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R13       180                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R14       180                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R15       180                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R16       180                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R17       180                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R18       180                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R19       180                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R20       10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R21       10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R22       10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R23       10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R24       10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R25       240                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R26       10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R27       10k                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R28       100                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+R29       100                   R-EU_0204/7     0204/7         RESISTOR, European symbol                                         
+S1        Output select         DP04-PHW        DP-04-PHW      DIL/CODE SWITCHwith alternative Pinheader                         
+S2                              TAC_SWITCHPTH   TACTILE-PTH    Momentary Switch                                                  
+U$1       SDMMC06132            SDMMC06132      06132          SD MMC Card holder                                                
+VGA101    VGA                   F15HDH          HDF15H         SUB-D                                                             
+VIDEO101  Cinch                 736880-49       736880-49      Cinch Connector ( RCA Jack )                                      
+WS801     AVR_SPI_PRG_6         AVR_SPI_PRG_6   ML6            AVR ISP 6 Pin                                                     
